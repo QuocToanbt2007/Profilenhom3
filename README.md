@@ -67,9 +67,6 @@
             font-family: 'Patrick Hand', sans-serif; /* Sử dụng phông Patrick Hand */
             font-size: 20px;               /* Kích thước chữ */
             color: #FFA500;               /* Màu chữ hồng dễ thương */}
-		 .justify-text {
-      text-align: justify;
-    }
     </style>
 </head>
 <body>
@@ -84,9 +81,9 @@
         </div>
         <div class="text-section">
             <h2>Giới thiệu bản thân </h2>
-            <div class="justify-text"><p>
+            <p>
             Chào mọi người, mình là Duy. Hiện tại mình đang là 1 CBT-er, và mình đặc biệt yêu thích âm nhạc và vẽ vời, đam mê chạy bộ và thường có thời gian rảnh thì sẽ vừa chạy bộ vừa tận hưởng không khí trong lành của thiên nhiên. Ngoài ra, mình rất quan tâm đến Graphic designer, mình đang có ý định sẽ theo học ngành nghề đó trong tương lai. Hiện tại mình sẽ cố gắng hết mình để đạt được mục tiêu đầu tiên chính là vào được ngôi trường mà mình mơ ước. Trong cuộc sống, mình sẽ luôn cố gắng học hỏi, phát triển bản thân và chia sẻ những điều tích cực với mọi người xung quanh.
-			 </div></p>
+			 </p>
    
         </div>
     </div>
